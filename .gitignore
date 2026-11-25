@@ -1,0 +1,12 @@
+backend/__pycache__/
+backend/.venv/
+backend/pickup.db
+
+frontend/.env
+frontend/.env.*
+frontend/!.env.example
+frontend/.expo/
+frontend/.vscode/
+frontend/node_modules/
+
+pickup-app
